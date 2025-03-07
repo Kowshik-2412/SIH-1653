@@ -11,11 +11,10 @@ Background: Waste management is a significant challenge in urban and rural areas
 Ministry of Defence
 
 ## Idea
-Automated Waste Segregation: Identify and separate biodegradable, non-biodegradable, and recyclable waste.
-Smart Bins with IoT Sensors: Monitor waste levels and notify authorities for timely collection.
-Optimized Waste Collection Routes: AI-based system to optimize garbage collection routes and reduce fuel consumption.
+Automated Waste Segregation: Identify and separate biodegradable, non-biodegradable, and recyclable waste.<br>
+Smart Bins with IoT Sensors: Monitor waste levels and notify authorities for timely collection.<br>
+Optimized Waste Collection Routes: AI-based system to optimize garbage collection routes and reduce fuel consumption.<br>
 Recycling Awareness and Incentives: Reward users for proper waste disposal through a mobile app.
-
 ## Proposed Solution / Architecture Diagram
 
 
