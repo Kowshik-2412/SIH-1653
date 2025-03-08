@@ -34,6 +34,7 @@ Ministry of Defence
 3.Gamification & Rewards: Points can be redeemed for discounts or coupons.<br>
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/0b6f3059-8dad-4738-92b0-c2fa062fb279)
 
 
 ## Technology Stack
